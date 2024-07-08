@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(220, 220, 220);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: inherit
+}
+.komart {
+   width: 250px; 
+   border-radius: 10px;
+   box-shadow: 5px 5px 15px rgb(0, 0, 0);
+   margin: 10px 270px;
+}
+.info a {
+color: rgb(0, 0, 0);
+font-style: italic;
+text-decoration: none;
+}
+.zaz h1 {
+    font-size: 28px;
+    text-align: center
+}
+.fakt {
+    background-color: rgb(235, 255, 245);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 20px 0px;
+}
+.komar {
+    max-width: 800px;
+    margin: auto;
+}
+.box div {
+    background: #000000;
+    height: 251px;
+    border-radius: 5px;
+}
+.art {
+    width: 250px; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px rgb(0, 0, 0);
+    margin: 1px 270px;
+ }
+ a {
+    color: rgb(0, 0, 0);
+font-style: italic;
+text-decoration: none;
+ }
+ a:hover {
+    text-decoration: underline;
+ }
+ .ccc {
+    background-color: #02006e3b;
+ }
+ .xxx {
+    background-color: #ffcaca58;
+    text-align: center
+ }
+ .zzz {
+    background-color: #cdffca58;
+ }
+ .info {
+    background-color: #44006e3b;
+    border-radius: 10px
+ }
+ .fakt h2 {
+    text-align: center
+ }
+ .fakt p {
+    text-align: center
+ }
+ table {
+    width: 1070px;
+ }
+ table td:nth-child(2) {
+    color: aliceblue;
+ }
+ li {
+    list-style: none;
+    margin-bottom: 10 px;
+ }
+ label {
+    display: block;
+ }
+ input {
+    background: transparent;
+    font-family: inherit;
+    width: 800px;
+    box-sizing: border-box;
+    border: none
+ }
+ input {
+    padding: 15px 0px 10px;
+    border-bottom: 1px solid #ccc 
+ }
+ .row {
+    display:block;
+ }
+ input {
+    cursor: pointer
+ }
+@media (max-width:800px) {.fakt {
+text-align: center;
+display: block;
+}
+    }
